@@ -3,3 +3,4 @@ Coruscant
 Endor
 Tottoine
 Roth
+Naboo
